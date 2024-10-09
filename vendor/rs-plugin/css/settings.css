@@ -847,6 +847,7 @@ background-color:transparent;
 border-width:0px;
 border-color:rgb(255, 214, 88);
 border-style:none;
+white-space: nowrap;
 }
 
 .tp-caption.medium_light_white {
